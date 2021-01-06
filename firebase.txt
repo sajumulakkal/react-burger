@@ -1,0 +1,14 @@
+https://react-my-berger-6e7bb.firebaseio.com/ingredients.json
+
+https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=[API_KEY]
+https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=[API_KEY]
+https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=
+AIzaSyBSfb3-GRDVyTqJxb5cFGpHCbeaTfWSOnQ
+
+
+
+https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyBSfb3-GRDVyTqJxb5cFGpHCbeaTfWSOnQ
+
+
+test@test.com
+123abc$%
